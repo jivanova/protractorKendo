@@ -1,0 +1,15 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "Execute e2e tests",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-protractor": "^0.1.1",
+    "protractor": "^4.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
